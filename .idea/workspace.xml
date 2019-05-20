@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d97f6cee-a87b-4ced-a986-1dfcb16eb5b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/dario/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/dario/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/dario/BCrypt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mainView.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/de/dario/AppTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -117,7 +122,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="314" />
     <option name="y" value="139" />
     <option name="width" value="1400" />
@@ -233,7 +238,7 @@
       <workItem from="1557573978500" duration="2365000" />
       <workItem from="1558368260312" duration="1512000" />
       <workItem from="1558375914478" duration="732000" />
-      <workItem from="1558376672575" duration="871000" />
+      <workItem from="1558376672575" duration="1309000" />
     </task>
     <servers />
   </component>
@@ -249,12 +254,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5480000" />
+    <option name="totallyTimeSpent" value="5918000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49841774" visible="true" weight="0.18336888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49841774" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" sideWeight="0.5016026" side_tool="true" weight="0.17857143" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,7 +275,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32967034" />
